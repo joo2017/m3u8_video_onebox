@@ -1,0 +1,5 @@
+plugins:
+  m3u8_video_onebox_enabled:
+    default: true
+    client: false
+    type: bool
